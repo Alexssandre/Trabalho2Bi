@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1C386C38-4DC1-435D-8B74-E2739062C8C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Diary PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Diary/Controllers/AgendaController.cs">
+    <Files>
+      <File FileName="Diary/Controllers/AgendaController.cs" Line="97" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Diary.API" expanded="True" selected="True">
+            <Node name="Diary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
